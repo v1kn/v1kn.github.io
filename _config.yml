@@ -1,0 +1,7 @@
+name: v1kn
+markdown: Pandoc
+gems:
+    - jekyll-pandoc
+pandoc:
+    - normalize
+    - smart
